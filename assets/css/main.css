@@ -1687,6 +1687,11 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin-top: 10px;
   color: #dc3545 !important;
 }
+.form-wrapper .form-group i{
+  color: #dc3545 !important;
+  font-size: 1.2em;
+  margin-right: 0.5em;
+}
 
 .text-danger {
   margin-top: 20px;
